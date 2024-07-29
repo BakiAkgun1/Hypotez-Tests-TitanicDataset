@@ -12,8 +12,10 @@ Fare: Ticket fare paid by the passengers
 # Visualization
 Various visualizations were created to explore the distribution and relationships between the features. Key visualizations include:
 ![Screenshot 2024-07-29 153602](https://github.com/user-attachments/assets/5e8b6d6c-6de7-41c4-a57f-0aeb331f252b)
+![Screenshot 2024-07-29 153609](https://github.com/user-attachments/assets/f4b983f1-e68a-4aa9-8cb3-e8dec9248dfc)
 
 Age Distribution: A histogram to show the distribution of passenger ages.
+
 Fare Distribution: A box plot to illustrate the range and outliers of fares paid.
 
 # Hypothesis Testing
