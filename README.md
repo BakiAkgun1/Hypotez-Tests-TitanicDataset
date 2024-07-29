@@ -22,6 +22,16 @@ Fare Distribution: A box plot to illustrate the range and outliers of fares paid
 Hypothesis tests were conducted to examine potential relationships between features. Some of the key tests include:
 
 
+Chi-Squared Statisctics: 16.971499095517114
+P-Value: 0.00020638864348233114
+
+Mann-Whitney Test
+_Statistic: 25337.5
+P-Vale:  2.076685918938379e-06
+
+Kruskal-Wallis H Test
+H-Statistic: 89.97967689104597
+P-Value: 2.891754508717626e-20
 # Key Findings
 Some successful results and relationships discovered through this analysis include:
 
